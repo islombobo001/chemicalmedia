@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "title": "Uglevodorodlar haqida umumiy tushuncha",
+    "subject": "chemistry",
+    "department": "Organika",
+    "duration": "12:45",
+    "video_url": "https://github.com/islombobo001/chemicalmedia/releases/download/v1/lesson1.mp4",
+    "order_index": 1,
+    "isBookmarked": false,
+    "isDownloaded": false,
+    "progress": 0,
+    "steps": [
+      {
+        "title": "Kirish va tushunchalar",
+        "start_time": "00:00",
+        "isLocked": false
+      },
+      {
+        "title": "Asosiy formulalar",
+        "start_time": "05:30",
+        "isLocked": false
+      }
+    ],
+    "theories": [
+      "https://raw.githubusercontent.com/islombobo001/chemicalmedia/main/images/chem1.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Hujayra biologiyasi",
+    "subject": "biology",
+    "department": "Botanika",
+    "duration": "10:20",
+    "video_url": "https://github.com/islombobo001/chemicalmedia/releases/download/v1/lesson2.mp4",
+    "order_index": 2,
+    "isBookmarked": false,
+    "isDownloaded": false,
+    "progress": 0,
+    "steps": [],
+    "theories": []
+  }
+]
