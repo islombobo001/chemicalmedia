@@ -1,1 +1,12 @@
-
+[
+  {
+    "question_text": "Atom qanday zarrachalardan tashkil topgan?",
+    "options": ["Proton, neytron, elektron", "Faqat proton", "Faqat elektron", "Molekulalardan"],
+    "correct_option": 0
+  },
+  {
+    "question_text": "Vodorodning tartib raqami necha?",
+    "options": ["1", "2", "3", "4"],
+    "correct_option": 0
+  }
+]
