@@ -11,10 +11,20 @@
     "isDownloaded": false,
     "progress": 0,
     "steps": [
-      {"title": "Kinetik nazariya", "start_time": "00:00", "isLocked": false},
-      {"title": "Reaksiya tezligi", "start_time": "04:15", "isLocked": false}
+      {
+        "title": "Kirish",
+        "start_time": "00:00",
+        "isLocked": false
+      },
+      {
+        "title": "Buffer eritma",
+        "start_time": "04:15",
+        "isLocked": false
+      }
     ],
-    "theories": [" https://upload.wikimedia.org/wikipedia/commons/3/3a/Reaction_rate_vs_concentration.png"]
+    "theories": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/3a/Reaction_rate_vs_concentration.png"
+    ]
   },
   {
     "id": 2,
@@ -28,9 +38,19 @@
     "isDownloaded": false,
     "progress": 0,
     "steps": [
-      {"title": "Kirish", "start_time": "00:00", "isLocked": false},
-      {"title": "Nazariya", "start_time": "03:30", "isLocked": false}
+      {
+        "title": "Kirish",
+        "start_time": "00:00",
+        "isLocked": false
+      },
+      {
+        "title": "Nazariya",
+        "start_time": "03:30",
+        "isLocked": false
+      }
     ],
-    "theories": ["https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ethanol-2D-flat.svg/640px-Ethanol-2D-flat.svg.png"]
+    "theories": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ethanol-2D-flat.svg/640px-Ethanol-2D-flat.svg.png"
+    ]
   }
 ]
