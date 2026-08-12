@@ -8,5 +8,16 @@
     "question_text": "Vodorodning tartib raqami necha?",
     "options": ["1", "2", "3", "4"],
     "correct_option": 0
+  },
+  {
+    "question_text": "Quyidagi rasmda qaysi laboratoriya asbobi tasvirlangan?",
+    "image_url": "https://raw.githubusercontent.com/islombobo001/chemicalmedia/main/images/test_kolba.jpg",
+    "options": ["Kolba", "Menuzarka", "Probka", "Shtativ"],
+    "correct_option": 0
+  },
+  {
+    "question_text": "Suvning kimyoviy formulasi qanday?",
+    "options": ["H2O", "CO2", "NaCl", "CH4"],
+    "correct_option": 0
   }
 ]
