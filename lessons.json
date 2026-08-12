@@ -4,17 +4,17 @@
     "title": "Buffer eritma va buffer eritmada pH",
     "subject": "chemistry",
     "department": "Anorganika",
-    "duration": "15:20",
-    "video_url": "https://github.com/islombobo001/chemicalmedia/releases/download/v1/kinetika.mp4",
+    "duration": "06:56",
+    "video_url": "https://github.com/islombobo001/chemicalmedia/releases/download/v1/bufersistema.mp4",
     "order_index": 1,
     "isBookmarked": false,
     "isDownloaded": false,
     "progress": 0,
     "steps": [
       {"title": "Kinetik nazariya", "start_time": "00:00", "isLocked": false},
-      {"title": "Reaksiya tezligi", "start_time": "08:15", "isLocked": false}
+      {"title": "Reaksiya tezligi", "start_time": "04:15", "isLocked": false}
     ],
-    "theories": ["https://raw.githubusercontent.com/islombobo001/chemicalmedia/main/images/chem1.jpg"]
+    "theories": [" https://upload.wikimedia.org/wikipedia/commons/3/3a/Reaction_rate_vs_concentration.png"]
   },
   {
     "id": 2,
@@ -31,7 +31,7 @@
       {"title": "Kirish", "start_time": "00:00", "isLocked": false},
       {"title": "Nazariya", "start_time": "03:30", "isLocked": false}
     ],
-    "theories": ["https://raw.githubusercontent.com/islombobo001/chemicalmedia/main/images/chem2.jpg"]
+    "theories": ["https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ethanol-2D-flat.svg/640px-Ethanol-2D-flat.svg.png"]
   }
   }
 ]
