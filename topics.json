@@ -22,5 +22,17 @@
     "level": "Lvl 1",
     "coin_reward": 30,
     "time_limit": "10 min"
-  }
+  },
+  {
+    "id": 1,
+    "topic_id": 11001001,
+    "subject": "biologiya",
+    "title": "Buffer eritma va pH",
+    "order_index": 1,
+    "test_file": "https://raw.githubusercontent.com/islombobo001/chemicalmedia/main/questions/mavzu1.json",
+    "question_count": 25,
+    "level": "Lvl 2",
+    "coin_reward": 50,
+    "time_limit": "20 min"
+  },
 ]
