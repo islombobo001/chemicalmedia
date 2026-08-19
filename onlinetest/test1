@@ -1,27 +1,57 @@
 {
-  "test_id": 1234567,
+  "test_id": 7778889,
+  "subject": "Kimyo",
   "questions": [
     {
-      "question_text": "Atomning markazida nima joylashgan?",
-      "options": [
-        "Yadro",
-        "Elektron",
-        "Molekula",
-        "Proton"
-      ],
+      "question_text": "Rasmda tasvirlangan laboratoriya jihozining nomi nima?",
+      "options": ["Kolba", "Menyurka", "Probirkadon", "Retorta"],
       "correct_option": 0,
-      "image_url": "https://www.thoughtco.com/thmb/ZQTxjhBNfwIK3NyD__skDg7XguY=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/atom-artwork-160936095-58a8f5683df78c345b8e53be.jpg",
-      "explanation": "Atom markazida yadro joylashgan bo'lib, u proton va neytronlardan tashkil topgan."
+      "image_url": "https://img.freepik.com/free-photo/laboratory-glassware-with-fluids-colors_23-2148208643.jpg"
     },
     {
-      "question_text": "Suvning kimyoviy formulasi qaysi?",
-      "options": [
-        "CO2",
-        "H2O",
-        "NaCl",
-        "O2"
-      ],
+      "question_text": "Atomning markaziy qismida nima joylashgan?",
+      "options": ["Elektronlar", "Yadro", "Molekulalar", "Ionlar"],
       "correct_option": 1
+    },
+    {
+      "question_text": "Mendeleyev davriy jadvalida birinchi tartib raqamda turuvchi element qaysi?",
+      "options": ["Geliy", "Kislorod", "Vodorod", "Uglerod"],
+      "correct_option": 2
+    },
+    {
+      "question_text": "Osh tuzining kimyoviy formulasi qanday?",
+      "options": ["NaCl", "NaOH", "HCl", "KCl"],
+      "correct_option": 0
+    },
+    {
+      "question_text": "Olmos va grafit qaysi elementning allotropik ko'rinishlari hisoblanadi?",
+      "options": ["Fosfor", "Oltingugurt", "Azot", "Uglerod"],
+      "correct_option": 3
+    },
+    {
+      "question_text": "Havo tarkibida eng ko'p uchraydigan gazni aniqlang?",
+      "options": ["Kislorod", "Azot", "Argon", "Karbonat angidrid"],
+      "correct_option": 1
+    },
+    {
+      "question_text": "Suvning nisbiy molekulyar massasi nechaga teng?",
+      "options": ["16", "18", "20", "22"],
+      "correct_option": 1
+    },
+    {
+      "question_text": "Kislotali muhitda lakmus qog'ozi qanday rangga kiradi?",
+      "options": ["Ko'k", "Sariq", "Qizil", "Yashil"],
+      "correct_option": 2
+    },
+    {
+      "question_text": "Qaysi metall xona haroratida suyuq holatda bo'ladi?",
+      "options": ["Simob", "Alyuminiy", "Mis", "Qalay"],
+      "correct_option": 0
+    },
+    {
+      "question_text": "O'simliklar fotosintez jarayonida qaysi gazni yutadi?",
+      "options": ["Kislorod", "Vodorod", "Azot", "Karbonat angidrid"],
+      "correct_option": 3
     }
   ]
 }
