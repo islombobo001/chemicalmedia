@@ -1,1 +1,38 @@
-.
+[
+  {
+    "id": 21,
+    "topic_id": 22001001,
+    "subject": "biology",
+    "title": "Hujayra biologiyasi",
+    "order_index": 1,
+    "test_file": "https://raw.githubusercontent.com/islombobo001/chemicalmedia/main/questions/bio_hujayra.json",
+    "question_count": 20,
+    "level": "Lvl 1",
+    "coin_reward": 30,
+    "time_limit": "10 min"
+  },
+  {
+    "id": 22,
+    "topic_id": 22002001,
+    "subject": "biology",
+    "title": "Zoologiya: Umurtqasizlar",
+    "order_index": 2,
+    "test_file": "https://raw.githubusercontent.com/islombobo001/chemicalmedia/main/questions/bio_zoologiya.json",
+    "question_count": 30,
+    "level": "Lvl 2",
+    "coin_reward": 60,
+    "time_limit": "20 min"
+  },
+  {
+    "id": 23,
+    "topic_id": 22003001,
+    "subject": "biology",
+    "title": "Genetika asoslari",
+    "order_index": 3,
+    "test_file": "https://raw.githubusercontent.com/islombobo001/chemicalmedia/main/questions/bio_genetika.json",
+    "question_count": 25,
+    "level": "Lvl 3",
+    "coin_reward": 100,
+    "time_limit": "25 min"
+  }
+]
