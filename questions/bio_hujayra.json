@@ -1,1 +1,62 @@
-.
+[
+  {
+    "question_text": "Hujayraning 'boshqaruv markazi' qaysi organoid hisoblanadi?",
+    "options": ["Yadro", "Sitoplazma", "Membrana", "Ribosoma"],
+    "correct_option": 0,
+    "explanation": "Yadroda hujayraning irsiy ma'lumoti saqlanadi va u barcha hayotiy jarayonlarni boshqaradi."
+  },
+  {
+    "question_text": "O'simliklarda suv va minerallarni ildizdan bargga tashuvchi to'qimani aniqlang?",
+    "options": ["Floema", "Parenxima", "Ksilima", "Epiderma"],
+    "correct_option": 2,
+    "explanation": "Ksilima (yog'ochlik) naylari orqali suv va mineral moddalar pastdan yuqoriga harakatlanadi."
+  },
+  {
+    "question_text": "Fotosintez jarayoni hujayraning qaysi organoidida sodir bo'ladi?",
+    "options": ["Mitoxondriya", "Lizosoma", "Golji apparati", "Xloroplast"],
+    "correct_option": 3,
+    "explanation": "Xloroplastlar tarkibidagi xlorofill pigmenti yordamida quyosh nurini kimyoviy energiyaga aylantiradi."
+  },
+  {
+    "question_text": "Qaysi vitamin yetishmasligi natijasida bolalarda raxit kasalligi kelib chiqadi?",
+    "options": ["A vitamini", "C vitamini", "D vitamini", "B12 vitamini"],
+    "correct_option": 2,
+    "explanation": "D vitamini suyaklarning normal rivojlanishi va organizmda kalsiy almashinuvi uchun zarurdir."
+  },
+  {
+    "question_text": "Odam organizmidagi eng katta ichki bez qaysi?",
+    "options": ["Me'da osti bezi", "Jigar", "Buyrak usti bezi", "Qalqonsimon bez"],
+    "correct_option": 1,
+    "explanation": "Jigar eng katta ichki bez bo'lib, u modda almashinuvi va zaharli moddalarni zararsizlantirishda muhim rol o'ynaydi."
+  },
+  {
+    "question_text": "DNK molekulasining tarkibiga kirmaydigan azotli asosni toping?",
+    "options": ["Adenin", "Timin", "Uratsil", "Guanin"],
+    "correct_option": 2,
+    "explanation": "Uratsil faqat RNK tarkibida bo'ladi, DNKda esa uning o'rnida Timin mavjud."
+  },
+  {
+    "question_text": "Genetika fanining asoschisi kim?",
+    "options": ["Charlz Darvin", "Robert Guk", "Gregor Mendel", "Lui Paster"],
+    "correct_option": 2,
+    "explanation": "Gregor Mendel no'xat o'simligi ustida tajribalar o'tkazib, irsiyatning asosiy qonuniyatlarini kashf etgan."
+  },
+  {
+    "question_text": "Qonning qizil rangda bo'lishiga sabab bo'luvchi oqsil nomi nima?",
+    "options": ["Insulin", "Gemoglobin", "Keratin", "Fibrinogen"],
+    "correct_option": 1,
+    "explanation": "Gemoglobin tarkibidagi temir ioni kislorodni bog'lab oladi va qonga qizil rang beradi."
+  },
+  {
+    "question_text": "Baliqlarning asosiy nafas olish organi qaysi?",
+    "options": ["O'pka", "Teri", "Traxeya", "Jabra"],
+    "correct_option": 3,
+    "explanation": "Baliqlar jabralari yordamida suvda erigan kislorod bilan nafas oladi."
+  },
+  {
+    "question_text": "Tirik organizmlarning eng kichik strukturaviy va funksional birligi nima?",
+    "options": ["To'qima", "Organ", "Hujayra", "Molekula"],
+    "correct_option": 2,
+    "explanation": "Hujayra barcha tirik organizmlarning (viruslardan tashqari) eng kichik hayotiy birligidir."
+  }
+]
