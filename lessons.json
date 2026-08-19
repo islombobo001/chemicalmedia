@@ -1,59 +1,20 @@
 [
   {
-    "id": 1,
-    "title": "Buffer eritma va buffer eritmada pH",
-    "subject": "chemistry",
-    "department": "Anorganika",
-    "new_video": true,
-    "duration": "06:56",
-    "video_url": "https://github.com/islombobo001/chemicalmedia/releases/download/v1/bufersistema.mp4",
-    "thumbnail_url": "https://github.com/islombobo001/chemicalmedia/blob/main/images/img.jpg",
-    "order_index": 1,
-    "isBookmarked": false,
-    "isDownloaded": false,
-    "progress": 0,
-    "steps": [
-      {
-        "title": "Kirish",
-        "start_time": "00:00",
-        "isLocked": false
-      },
-      {
-        "title": "Buffer eritma",
-        "start_time": "04:15",
-        "isLocked": false
-      }
-    ],
-    "theories": [
-      "https://github.com/islombobo001/chemicalmedia/blob/main/images/mendelev.jpg"
-    ]
+    "dars_id": 10000001,
+    "title": "Organik kimyoga kirish",
+    "description": "Uglevodorodlar haqida umumiy tushuncha va ularning tasnifi.",
+    "video_link": "https://youtu.be/j_d5EdgpVOs?si=zhcRDVwfkYUXiB_a",
+    "test_id": "test_org_01",
+    "subject": "Kimyo",
+    "category": "Organika"
   },
   {
-    "id": 2,
-    "title": "Atom tarkibi",
-    "subject": "chemistry",
-    "department": "Anorganika",
-    "new_video": true,
-    "duration": "06:42",
-    "video_url": "https://github.com/islombobo001/chemicalmedia/releases/download/v1/atomtarkibi.mp4",
-    "order_index": 2,
-    "isBookmarked": false,
-    "isDownloaded": false,
-    "progress": 0,
-    "steps": [
-      {
-        "title": "Kirish",
-        "start_time": "00:00",
-        "isLocked": false
-      },
-      {
-        "title": "Nazariya",
-        "start_time": "03:30",
-        "isLocked": false
-      }
-    ],
-    "theories": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ethanol-2D-flat.svg/640px-Ethanol-2D-flat.svg.png"
-    ]
+    "dars_id": 20000001,
+    "title": "Botanika asoslari",
+    "description": "O'simliklar dunyosi va ularning tuzilishi.",
+    "video_link": "https://youtu.be/dOyeqvLmJvI?si=PgEO1gLIVl8Su3T3",
+    "test_id": "test_bot_01",
+    "subject": "Biologiya",
+    "category": "Botanika"
   }
 ]
