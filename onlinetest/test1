@@ -1,6 +1,9 @@
 {
   "test_id": 7778889,
   "subject": "Kimyo",
+  "question_count": 10,
+  "reward_amount": 100,
+  "duration_time": "15m"
   "questions": [
     {
       "question_text": "Rasmda tasvirlangan laboratoriya jihozining nomi nima?",
