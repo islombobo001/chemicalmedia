@@ -1,120 +1,63 @@
-{
-  "test_id": 7778889,
-  "subject": "Kimyo",
-  "question_count": 10,
-  "reward_amount": 250,
-  "duration_time": "15m",
-  "questions": [
-    {
-      "question_text": "Atom qanday zarrachalardan tashkil topgan?",
-      "options": [
-        "Proton, neytron, elektron",
-        "Faqat proton",
-        "Faqat elektron",
-        "Molekulalardan"
-      ],
-      "correct_option": 0,
-      "explanation": "Atom markazida yadro (proton va neytron) va uning atrofida aylanuvchi elektronlardan tashkil topgan."
-    },
-    {
-      "question_text": "Vodorodning tartib raqami necha?",
-      "options": [
-        "1",
-        "2",
-        "3",
-        "4"
-      ],
-      "correct_option": 0,
-      "explanation": "Vodorod Mendeleyev davriy jadvalidagi birinchi element hisoblanadi."
-    },
-    {
-      "question_text": "Quyidagi rasmda qaysi laboratoriya asbobi tasvirlangan?",
-      "image_url": "https://raw.githubusercontent.com/islombobo001/chemicalmedia/main/images/%E2%80%94Pngtree%E2%80%94realistic%20chemisrty%20science%20glass%20flask_5138816.png",
-      "options": [
-        "Kolba",
-        "Menuzarka",
-        "Probka",
-        "Shtativ"
-      ],
-      "correct_option": 0,
-      "explanation": "Rasmda kimyoviy tajribalar uchun ishlatiladigan shisha kolba tasvirlangan."
-    },
-    {
-      "question_text": "Suvning kimyoviy formulasi qanday?",
-      "options": [
-        "H2O",
-        "CO2",
-        "NaCl",
-        "CH4"
-      ],
-      "correct_option": 0,
-      "explanation": "Suv molekulasi ikkita vodorod va bitta kislorod atomidan tashkil topgan."
-    },
-    {
-      "question_text": "Osh tuzining kimyoviy nomi nima?",
-      "options": [
-        "Natriy xlorid",
-        "Kaliy karbonat",
-        "Kalsiy sulfat",
-        "Magniy oksidi"
-      ],
-      "correct_option": 0,
-      "explanation": "NaCl — natriy xlorid kundalik hayotda osh tuzi sifatida ishlatiladi."
-    },
-    {
-      "question_text": "Kislorodning valentligi nechaga teng?",
-      "options": [
-        "I",
-        "II",
-        "III",
-        "IV"
-      ],
-      "correct_option": 1,
-      "explanation": "Kislorod o'z birikmalarida deyarli doim II valentli bo'ladi."
-    },
-    {
-      "question_text": "Eng yengil metallni aniqlang?",
-      "options": [
-        "Litiy",
-        "Alyuminiy",
-        "Natriy",
-        "Temir"
-      ],
-      "correct_option": 0,
-      "explanation": "Litiy (Li) tabiatdagi eng yengil metall hisoblanadi."
-    },
-    {
-      "question_text": "Oltinning kimyoviy belgisi qaysi?",
-      "options": [
-        "Ag",
-        "Au",
-        "Fe",
-        "Cu"
-      ],
-      "correct_option": 1,
-      "explanation": "Au (Aurum) — lotinchadan olingan bo'lib, oltin elementini bildiradi."
-    },
-    {
-      "question_text": "Kislotali muhitni aniqlash uchun qaysi indikatordan foydalaniladi?",
-      "options": [
-        "Fenolftalein",
-        "Metiloranj",
-        "Lakmus",
-        "Barchasi to'g'ri"
-      ],
-      "correct_option": 3,
-      "explanation": "Lakmus, metiloranj va fenolftalein muhitni aniqlashda ishlatiladigan asosiy indikatorlardir."
-    },
-    {
-      "question_text": "Uglerod (IV) oksidi qaysi gaz hisoblanadi?",
-      "options": [
-        "Is gazi",
-        "Karbonat angidrid",
-        "Azot gazi",
-        "Vodorod sulfid"
-      ],
-      "correct_option": 1,
-      "explanation": "CO2 — karbonat angidrid yoki uglerod (IV) oksidi deb ataladi."
-    }
-  ]
-}
+[
+  {
+    "question_text": "Atom yadrosi qanday zarrachalardan tashkil topgan?",
+    "options": ["Proton va neytron", "Proton va elektron", "Elektron va neytron", "Faqat neytron"],
+    "correct_option": 0,
+    "explanation": "Atom yadrosi musbat zaryadli protonlar va zaryadsiz neytronlardan tashkil topgan."
+  },
+  {
+    "question_text": "Quyidagi rasmda qaysi laboratoriya shisha idishi tasvirlangan?",
+    "image_url": "https://raw.githubusercontent.com/islombobo001/chemicalmedia/main/images/%E2%80%94Pngtree%E2%80%94realistic%20chemisrty%20science%20glass%20flask_5138816.png",
+    "options": ["O'lchov silindri", "Konusli kolba", "Probirkadon", "Retorta"],
+    "correct_option": 1,
+    "explanation": "Rasmda kimyoviy tahlillar va eritmalarni saqlashda ishlatiladigan konusli kolba (Erlenmeyer kolbasi) tasvirlangan."
+  },
+  {
+    "question_text": "Mendeleyev jadvalida tartib raqami 6 bo'lgan elementni toping?",
+    "options": ["Azot", "Kislorod", "Uglerod", "Bor"],
+    "correct_option": 2,
+    "explanation": "Uglerod (C) elementining tartib raqami 6 ga teng."
+  },
+  {
+    "question_text": "Sulfat kislotaning kimyoviy formulasi qaysi?",
+    "options": ["H2SO3", "HCl", "HNO3", "H2SO4"],
+    "correct_option": 3,
+    "explanation": "H2SO4 — sulfat kislotaning formulasi hisoblanadi."
+  },
+  {
+    "question_text": "Neytral muhitda pH ko'rsatkichi nechaga teng?",
+    "options": ["0", "7", "14", "1"],
+    "correct_option": 1,
+    "explanation": "Toza suv va neytral eritmalar uchun pH ko'rsatkichi 7 ga teng bo'ladi."
+  },
+  {
+    "question_text": "Tabiatda eng ko'p tarqalgan element qaysi?",
+    "options": ["Vodorod", "Kislorod", "Azot", "Temir"],
+    "correct_option": 0,
+    "explanation": "Koinotda eng ko'p tarqalgan element vodorod (H) hisoblanadi."
+  },
+  {
+    "question_text": "Osh tuzi (NaCl) qanday turdagi bog'lanishga ega?",
+    "options": ["Kovalent", "Ionli", "Metall", "Vodorodli"],
+    "correct_option": 1,
+    "explanation": "Natriy xloridda metall va metallmas orasidagi ionli bog'lanish mavjud."
+  },
+  {
+    "question_text": "Suvning qaynash harorati normal bosimda necha daraja?",
+    "options": ["50°C", "80°C", "100°C", "120°C"],
+    "correct_option": 2,
+    "explanation": "Normal atmosfera bosimida suv 100 daraja selsiyda qaynaydi."
+  },
+  {
+    "question_text": "Davriy jadvaldagi eng kuchli metallmas element qaysi?",
+    "options": ["Xlor", "Ftor", "Kislorod", "Azot"],
+    "correct_option": 1,
+    "explanation": "Ftor (F) eng yuqori elektromanfiylikka ega bo'lgan eng kuchli metallmasdir."
+  },
+  {
+    "question_text": "Ammiak sintezida qaysi katalizator ishlatiladi?",
+    "options": ["Platina", "Mis", "Temir", "Nikell"],
+    "correct_option": 2,
+    "explanation": "Sanoatda ammiak olishda g'ovakdor temir katalizator sifatida qo'llaniladi."
+  }
+]
