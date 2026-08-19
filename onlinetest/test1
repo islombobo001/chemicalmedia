@@ -1,0 +1,27 @@
+{
+  "test_id": 1234567,
+  "questions": [
+    {
+      "question_text": "Atomning markazida nima joylashgan?",
+      "options": [
+        "Yadro",
+        "Elektron",
+        "Molekula",
+        "Proton"
+      ],
+      "correct_option": 0,
+      "image_url": "https://raw.githubusercontent.com/.../atom.png",
+      "explanation": "Atom markazida yadro joylashgan bo'lib, u proton va neytronlardan tashkil topgan."
+    },
+    {
+      "question_text": "Suvning kimyoviy formulasi qaysi?",
+      "options": [
+        "CO2",
+        "H2O",
+        "NaCl",
+        "O2"
+      ],
+      "correct_option": 1
+    }
+  ]
+}
