@@ -3,7 +3,7 @@
     "id": 1,
     "title": "Kimyoviy elementlar siri",
     "artist": "Obidov Chemistry",
-    "audioUrl": "https://raw.githubusercontent.com/islombobo001/chemicalmedia/main/audios/elementlar.mp3",
+    "audioUrl": "https://github.com/islombobo001/chemicalmedia/releases/download/v1.0.0/Ovoz.015.m4a",
     "thumbUrl": "https://raw.githubusercontent.com/islombobo001/chemicalmedia/main/images/cover1.jpg",
     "category": "playlist"
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "title": "Organik kimyo asoslari",
     "artist": "Obidov Chemistry",
-    "audioUrl": "https://raw.githubusercontent.com/islombobo001/chemicalmedia/main/audios/organika.mp3",
+    "audioUrl": "https://github.com/islombobo001/chemicalmedia/releases/download/v1.0.0/Ovoz.015.m4a",
     "thumbUrl": "https://raw.githubusercontent.com/islombobo001/chemicalmedia/main/images/cover2.jpg",
     "category": "song"
   }
